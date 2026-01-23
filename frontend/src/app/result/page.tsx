@@ -73,7 +73,7 @@ export default function ResultPage() {
     }
 
     return (
-        <main className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white p-6 md:p-12" style={{ paddingTop: '400px' }}>
+        <main className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white p-6 md:p-12" style={{ paddingTop: '100px' }}>
             <div className="max-w-4xl mx-auto space-y-8">
                 <div className="flex justify-between items-center">
                     <button
