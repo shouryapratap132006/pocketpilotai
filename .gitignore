@@ -1,0 +1,7 @@
+# Backend env files
+backend/.env
+
+# OS
+.DS_Store
+*.swp
+*.swo
